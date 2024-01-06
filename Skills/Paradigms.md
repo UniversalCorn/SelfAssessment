@@ -8,17 +8,17 @@
   - Functional programming: 🖐️ used
   - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
-  - Object-based programming: 👂 heard
-  - Generic programming: 👂 heard
+  - Object-based programming: 🎓 known
+  - Generic programming: 🎓 known
   - Concurrent computing: 🖐️ used
   - Asyncronous programming: 🖐️ used
   - Parallel programming: 🖐️ used
   - Reactive programming: 🎓 known
   - FRP (Functional-reactive): 👂 heard
-  - Automata-based programming: 👂 heard
+  - Automata-based programming: 🎓 known
   - Domain-specific languages: 🖐️ used
-  - Multi-paradigm programming: 👂 heard
-  - Metaprogramming: 👂 heard
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 🎓 known
   - Actor model: 🎓 known
 - OOP basics
   - constructor: 🖐️ used
@@ -40,7 +40,7 @@
   - Object form: 🖐️ used
   - instance: 🖐️ used
   - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Reflection: 🎓 known
 - Patterns
   - Singleton: 🎓 known
   - Factory Method: 🎓 known
@@ -52,7 +52,7 @@
   - Proxy: 🎓 known
   - Chain of Responsibility: 👂 heard
   - Command: 🙋 explained
-  - Iterator: 👂 heard
+  - Iterator: 🎓 known
   - State: 🙋 explained
   - Bridge: 🎓 known
   - Builder: 🎓 known
@@ -63,4 +63,4 @@
   - Mediator: 🙋 explained
   - Memento: 👂 heard
   - Template Method: 🙋 explained
-  - Visitor: 👂 heard
+  - Visitor: 🎓 known

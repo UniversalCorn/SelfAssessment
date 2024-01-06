@@ -51,7 +51,7 @@
   - monad: 🎓 known
   - monoid: 🎓 known
   - generator: 🎓 known
-  - coroutine: 👂 heard
+  - coroutine: 👂 🎓 known
 - Data structures
   - array: 🙋 explained
   - structure: 🙋 explained
