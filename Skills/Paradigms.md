@@ -21,24 +21,24 @@
   - Metaprogramming: 🎓 known
   - Actor model: 🎓 known
 - OOP basics
-  - constructor: 🖐️ used
-  - new: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
   - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
   - Encapsulation: 🖐️ used
   - Hidden class: 🖐️ used
   - Object form: 🖐️ used
-  - instance: 🖐️ used
+  - instance: 🙋 explained
   - Introspection: 👂 heard
   - Reflection: 🎓 known
 - Patterns
@@ -49,14 +49,14 @@
   - Observer: 🙋 explained
   - Strategy: 🎓 known
   - Facade: 👂 heard
-  - Proxy: 🎓 known
+  - Proxy: 🖐️ used
   - Chain of Responsibility: 👂 heard
   - Command: 🙋 explained
   - Iterator: 🎓 known
   - State: 🙋 explained
   - Bridge: 🎓 known
   - Builder: 🎓 known
-  - Prototype: 🎓 known
+  - Prototype: 🙋 explained
   - Composite: 👂 heard
   - Decorator: 🙋 explained
   - Flyweight: 👂 heard
