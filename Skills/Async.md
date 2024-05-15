@@ -7,7 +7,7 @@
   - Async I/O: 🖐️ used
   - Thread pool: 🖐️ used
   - Pattern Reactor: 👂 heard
-  - CAS operations: 👂 heard
+  - CAS operations: 🎓 known
   - epoll: 🎓 known
   - kqueue: 🎓 known
   - Completion ports: 🎓 known
@@ -16,8 +16,8 @@
   - Race conditions: 🎓 known
   - Dead locks: 🙋 explained
   - Live locks: 🙋 explained
-  - Concurrent programming: 🎓 known
-  - Parallel programming: 🎓 known
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model: 🎓 known
   - Thread: 🖐️ used
   - Process: 🖐️ used
@@ -35,7 +35,7 @@
   - Event: 🖐️ used
   - Coroutine: 🎓 known
   - Goroutine: 🎓 known
-  - Signal: 🎓 known
+  - Signal: 🖐️ used
   - Stream: 🎓 known
   - Chain of responsibility: 🎓 known
   - Middleware: 🎓 known
@@ -53,7 +53,7 @@
   - Writable: 🖐️ used
   - Transform: 🖐️ used
   - Async Pool: 🎓 known
-  - Async Queue: 🎓 known
+  - Async Queue: 🖐️ used
   - Async Collector: 🎓 known
   - Semaphore: 🎓 known
   - Mutex: 🎓 known

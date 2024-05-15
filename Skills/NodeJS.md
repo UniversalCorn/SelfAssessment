@@ -35,9 +35,9 @@
 - Internal API
   - Streams API: 🖐️ used
   - Web Streams API: 🖐️ used
-  - Crypto API: 👂 heard
+  - Crypto API: 🎓 known
   - Password hashing with node:crypto.scrypt: 👂 heard
-  - Web Crypto API: 👂 heard
+  - Web Crypto API: 🎓 known
   - File system API: sync and async: 🖐️ used
   - Copy folder recursively: 🎓 known
   - Worker threads: 🖐️ used
@@ -66,8 +66,8 @@
   - Separation of concerns: 🎓 known
   - Inversion of control: 🎓 known
   - Dependency injection: 🎓 known
-  - GRASP: 🎓 known
-  - SOLID: 🎓 known
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
   - GoF patterns: 🎓 known
   - Distributed systems: 🎓 known
   - Highload applications: 🎓 known
@@ -102,7 +102,7 @@
   - XSS: 🎓 known
   - Path traversal: 🎓 known
   - CSRF: 🎓 known
-  - DNS: 🎓 known
+  - DNS: 🖐️ used
   - Fetch API: 🖐️ used
   - IncomingMessage: 🎓 known
   - SQL injection: 🖐️ used
@@ -115,7 +115,7 @@
 - Technique and tools
   - Native test runner: 🎓 known
   - Logging: 🎓 known
-  - Application configuring: 🎓 known
+  - Application configuring: 🖐️ used
   - Testing: 🎓 known
   - CI/CD: 🖐️ used
   - Readable: 🖐️ used
@@ -123,8 +123,8 @@
   - Transform: 🖐️ used
   - back pressure: 🎓 known
   - Buffer: 🎓 known
-  - Console: 🖐️ used
-  - Inspector: 🖐️ used
+  - Console: 🙋 explained
+  - Inspector: 🙋 explained
   - Reliability: 🖐️ used
   - Quality: 🖐️ used
   - Availability: 🖐️ used
@@ -152,16 +152,16 @@
   - Data race: 🎓 known
 - Integrations and bindings
   - Native addons: 👂 heard
-  - C and C++ addons: 👂 heard
+  - C and C++ addons: 🖐️ used
   - Rust addons: 👂 heard
   - Zig addons: 👂 heard
   - NAN (Native Abstractions for Node.js): 👂 heard
   - Node-API (formerly N-API): 👂 heard
-  - NAPI C and C++: 👂 heard
+  - NAPI C and C++: 🖐️ used
   - NAPI Rust: 👂 heard
   - NAPI Zig: 👂 heard
   - Webassembly WAT: 🎓 known
-  - Webassembly C and C++: 👂 heard
+  - Webassembly C and C++: 🖐️ used
   - Webassembly Rust: 👂 heard
   - Webassembly Zig: 👂 heard
   - Webassembly AssemblyScript: 👂 heard

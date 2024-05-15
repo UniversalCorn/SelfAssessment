@@ -38,7 +38,7 @@
   - side effects: 🙋 explained
   - closure: 🖐️ used
   - partial application: 🎓 known
-  - curry: 🎓 known
+  - curry: 🖐️ used
   - higher order: 🖐️ used
   - recursion: 🙋 explained
   - callback: 🙋 explained
@@ -75,15 +75,15 @@
   - iterator: 🖐️ used
   - mutable state: 🖐️ used
   - immutable state: 🖐️ used
-  - serialization: 🎓 known
+  - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🙋 explained
   - transpiler: 🎓 known
   - linter: 🙋 explained
-  - polyfill: 🎓 known
+  - polyfill: 🖐️ used
   - debugger: 🙋 explained
-  - garbage collection: 🎓 known
+  - garbage collection: 🙋 explained
   - refactoring: 🙋 explained
   - code review: 🖐️ used
   - antipatterns: 🎓 known
@@ -91,7 +91,7 @@
   - algorithm: 🙋 explained
   - magic numbers: 🙋 explained
   - hardcode: 🖐️ used
-  - complexity: 🎓 known
+  - complexity: 🖐️ used
   - decomposition: 🎓 known
   - spaghetti: 🎓 known
   - silver bullet: 🎓 known
